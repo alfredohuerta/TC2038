@@ -96,7 +96,7 @@ vector<int> Pago::calc_cambio(int diferencia){
  * @brief Función principal que recibe tanto el precio del producto como el pago dado, genera la diferencia y llama a la
  * función que genera el cambio.
  * 
- * @param precio 
+ * @param precio
  * @param pago 
  * @return vector<int> 
  */
